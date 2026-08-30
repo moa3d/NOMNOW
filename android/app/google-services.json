@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072753946809",
+    "project_id": "nomnow-c1fc3",
+    "storage_bucket": "nomnow-c1fc3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072753946809:android:9f968d99bcffa468172b68",
+        "android_client_info": {
+          "package_name": "com.nomnow.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPnCamV_oKXD2XqS3ZDKlsRJyFgaqmQjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
