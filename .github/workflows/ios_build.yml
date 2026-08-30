@@ -33,7 +33,7 @@ jobs:
           zip -r ios_app.ipa Payload
 
       - name: Upload IPA
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: ios-ready-to-install
           path: ios_app.ipa
